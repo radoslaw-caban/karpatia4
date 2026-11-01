@@ -1,6 +1,6 @@
 # Karpatia 4
 
-System automatyzacji produkcji Karpatia Meble - wersja 4
+System produkcji 
 
 ## Status
 
